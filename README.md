@@ -14,3 +14,5 @@
 * Las personalidades múltiples de Freddy
 * Creado por el Platzi Team
 
+* Incluye ejemplos en Linux y Mac
+* Disponible para todas las edades
