@@ -1,4 +1,4 @@
-#Hyperblog :tw-1f3c6:
+#Hyperblog:
 
 [![logo](https://miro.medium.com/max/3000/1*MTXZ1795B0Y4vHnQs3j_-w.png "logo")](https://miro.medium.com/max/3000/1*MTXZ1795B0Y4vHnQs3j_-w.png "logo")
 
@@ -12,4 +12,5 @@
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
+* Creado por el Platzi Team
 
